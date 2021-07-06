@@ -1,4 +1,4 @@
-def quick_sort(the_list, start, end):
+def quicksort(the_list, start, end):
     '''
     Parameters
     ----------
