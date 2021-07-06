@@ -11,7 +11,7 @@ setup(
     install_requires=[],
     entry_points={
         'collection_sort': [
-            'quick_sort=quick_sort:quick_sort'
+            'quicksort=quicksort:quick_sort'
         ]
     }
 )
